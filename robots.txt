@@ -3,8 +3,5 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-<<<<<<< HEAD
 #This line has been added to demonstrate the usae of "git push: command"
-=======
-#This line has been added to demonstrate the usae of "git push: command
->>>>>>> 0e4b094b8749fca7b48f79d839a2405e2cc83986
+
